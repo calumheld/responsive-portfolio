@@ -1,0 +1,60 @@
+body{
+    background-image: url(https://cutewallpaper.org/21/dark-website-backgrounds/Background-patterns-web-dark-website-blogger-beautiful-image-.jpg);
+}
+figure{
+    background-color: rgb(41, 41, 41);
+    margin-top:75px;
+}
+.navbar navbar-expand-lg navbar-light bg-light{
+    color: darkcyan;
+}
+h1{
+    color: crimson;
+    font-style:serif;
+    margin:40px;
+}
+img{
+    margin:auto;
+    margin-bottom: 20px;
+}
+p{
+    color:lightgray;
+    margin: 20px;
+}
+footer{
+    background-color: crimson;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+ }
+label{
+    color:lightgray;
+    margin:0px 0px 20px 20px;
+}
+input{
+    margin-left:20px;
+    margin-bottom:20px;
+    width:80%;
+}
+#message{
+    height:100px;
+}
+#Submit{
+    height:70px;
+    width:100px
+}
+a{
+    margin:5px;
+    background-color:crimson;
+    border-radius: 5px;
+}
+summary{
+    color:lightgray;
+    width:70%;
+    margin:auto;
+    margin-bottom:25px;
+    list-style: none
+}
