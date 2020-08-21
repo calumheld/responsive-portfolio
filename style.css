@@ -47,6 +47,7 @@ input{
     width:100px
 }
 a{
+    color: lightgray;
     margin:5px;
     background-color:crimson;
     border-radius: 5px;
@@ -57,4 +58,7 @@ summary{
     margin:auto;
     margin-bottom:25px;
     list-style: none
+}
+h3{
+    color: lightgray;
 }
